@@ -1,0 +1,16 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "comment.line.number-sign",
+                    "comment.block"
+                ],
+                "settings": {
+                    "foreground": "#6A9955"
+                }
+            }
+        ]
+    }
+}
